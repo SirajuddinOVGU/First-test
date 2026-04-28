@@ -6,3 +6,6 @@
 3. Noise-Cancelling Headphones
 
 ![Photo of Office](<Office Pixel Art.jpeg>)
+
+something something
+
